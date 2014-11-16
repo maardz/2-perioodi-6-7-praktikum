@@ -20,9 +20,7 @@
    </head>
    <body>
 
-   	<pre>
-   		<?php print_r($_POST); ?>
-   	</pre>	
+   		
 
    	<form action="index.php" method="post">
    		<div>
